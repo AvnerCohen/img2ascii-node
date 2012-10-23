@@ -13,5 +13,8 @@
     "node": "0.8.x",
     "npm": "1.1.x"
   },
-  "subdomain": "img2ascii"
+  "subdomain": "img2ascii",
+  "scripts": {
+    "start": "app.js"
+  }
 }
